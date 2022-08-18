@@ -1,5 +1,5 @@
 {
-"aka-local-account-init": {
+    "aka-local-account-init": {
     "mot-de-passe": "Пароль",
     "creation": "Творчество",
     "compte-local": "Местный аккаунт",
@@ -18,7 +18,7 @@
     "use-login-by-password": "Используйте пароль"
     },
     "aka-local-debug-db": {
-    "titre-menu-debug-db": "DEBUG DB",
+    "titre-menu-debug-db":   "DEBUG DB",
     "home": "Добро пожаловать",
     "liste-db": "Список DB",
     "info-db": "Информация",
@@ -59,13 +59,13 @@
     },
     "aka-locak-desktop": {
     "desktop": "Рабочий стол",
-    "menuTitre": "Меню",
-    "sujet1": "Изменить язык",
-    "sujet2": "Параметры приложения",
-    "sujet3": "Моя информация - мои данные",
-    "sujet4": "Активировать доступ к кондиционеру",
-    "sujet5": "Под меню 5",
-    "sujet6": "Под меню 6",
+    "menuTitre":  "Меню",
+    "sujet1":   "Изменить язык",
+    "sujet2":   "Параметры приложения",
+    "sujet3":   "Моя информация - мои данные",
+    "sujet4":   "Активировать доступ к кондиционеру",
+    "sujet5":   "Под меню 5",
+    "sujet6":   "Под меню 6",
     "identifiant": "Я БЫ:",
     "pseudo": "Псевдо"
     },
@@ -85,7 +85,8 @@
     "contact": "Контакты",
     "videoconf": "конференция",
     "multi_account": "Изменить учетную запись",
-    "picture-video": "Изображения и видео"
+    "picture-video": "Изображения и видео",
+    "wordprocessing": "Текстовый редактор"
     },
     "aka-app-translate-appname-toast-head": {
     "folder": "Запуск приложения папки",
@@ -101,7 +102,8 @@
     "setting": "Запуск приложения настроек",
     "database": "Запуск приложения базы данных",
     "debug": "Запуск приложения отладки",
-    "multi_account": "Запуск мульти -аккунтного приложения"
+    "multi_account": "Запуск мульти -аккунтного приложения",
+    "wordprocessing": "Laucing текстовый процессор"
     },
     "aka-app-translate-appname-toast-msg": {
     "folder": "Пожалуйста, подождите во время запуска",
@@ -116,10 +118,11 @@
     "setting": "Пожалуйста, подождите во время запуска",
     "database": "Пожалуйста, подождите во время запуска",
     "debug": "Пожалуйста, подождите во время запуска",
-    "multi_account": "Вскоре..."
+    "multi_account": "Вскоре...",
+    "wordprocessing": "Подождите, подождите во время запуска обработки текстов"
     },
     "aka-local-desktop-debug": {
-    "titre-debug": "Отладчик",
+    "titre-debug":  "Отладчик",
     "parametres-title": "Основные параметры",
     "parametres-subtitle": "Переменные детали",
     "version": "Версия",
@@ -155,11 +158,11 @@
     "pushNotification-tokenstring": "Содержание токена"
     },
     "aka-local-desktop-drive": {
-    "titre-drive": "Файл (ы)",
-    "titre-drive-is-empty": "Хранение пусто",
+    "titre-drive":                      "Файл (ы)",
+    "titre-drive-is-empty":             "Хранение пусто",
     "texte-drive-is-empty_1": "Вы можете добавить папки, фотографии, видео, шумовые заметки, импортные элементы, используя приведенные ниже кнопки",
     "texte-drive-is-empty_2": "Откройте для себя документацию каждой кнопки, нажав здесь",
-    "texte-drive-decrypt-and-loading": "ДеКРИЗАНИЕ И ЗАГРУЗКА ФАЙЛА",
+    "texte-drive-decrypt-and-loading":  "ДеКРИЗАНИЕ И ЗАГРУЗКА ФАЙЛА",
     "DRIVE_MANAGEMENT_FOLDER": "Файлы",
     "DRIVE_MANAGEMENT_ELEMENT": "Элементы",
     "DRIVE_MANAGEMENT_NEW_FOLDER": "Новый файл",
@@ -198,31 +201,31 @@
     "title": "Загрузка папки и файла"
     },
     "aka-local-desktop-new-drive": {
-    "titre-drive": "Папка (ы)",
+    "titre-drive":  "Кейс",
     "titre-drive-is-empty": "Ваше место для хранения пустое",
-    "texte-drive-is-empty_1": "Вы можете добавить папки, фотографии, видео, звуковые заметки, элементы импорта, используя приведенные ниже кнопки",
+    "texte-drive-is-empty_1": "Вы можете добавить папки, фотографии, видео, шумовые заметки, импортные элементы, используя приведенные ниже кнопки",
     "texte-drive-is-empty_2": "Откройте для себя документацию каждой кнопки, нажав здесь",
-    "texte-drive-decrypt-and-loading": "ДеКРИЗАНИЕ И ЗАГРУЗКА ФАЙЛА",
-    "DRIVE_MANAGEMENT_FOLDER": "Папки",
+    "texte-drive-decrypt-and-loading":  "ДеКРИЗАНИЕ И ЗАГРУЗКА ФАЙЛА",
+    "DRIVE_MANAGEMENT_FOLDER": "Файлы",
     "DRIVE_MANAGEMENT_ELEMENT": "Элементы",
-    "DRIVE_MANAGEMENT_NEW_FOLDER": "Новая папка",
-    "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Отменить выбор папок",
+    "DRIVE_MANAGEMENT_NEW_FOLDER": "Новый файл",
+    "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Делил текущий файл",
     "DRIVE_MANAGEMENT_DELETE_FOLDER": "Удалить выбранную папку",
-    "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Изменить информацию о папке",
-    "DRIVE_MANAGEMENT_CANCEL": "Отмена",
-    "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Введите имя папки",
-    "DRIVE_MANAGEMENT_ADD_PICTURE": "Добавить картинку",
-    "DRIVE_MANAGEMENT_ADD_VIDEO": "Добавить видео",
+    "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Изменить информацию из файла",
+    "DRIVE_MANAGEMENT_CANCEL": "Отменить",
+    "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Введите имя файла",
+    "DRIVE_MANAGEMENT_ADD_PICTURE": "Сфотографировать",
+    "DRIVE_MANAGEMENT_ADD_VIDEO": "Поверните видео",
     "DRIVE_MANAGEMENT_ADD_VOICE": "Добавить голосовое сообщение",
-    "DRIVE_MANAGEMENT_ADD_NOTE": "Добавить заметку",
-    "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Import Pictures из альбома",
-    "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Импорт видео из альбома",
-    "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Импортный документ",
-    "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Переместить элемент в другую папку",
+    "DRIVE_MANAGEMENT_ADD_NOTE": "Добавить примечание",
+    "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Импортировать изображение из альбома",
+    "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Импортировать видео с альбома",
+    "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Импортировать документ",
+    "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Переместите элемент в другую папку",
     "DRIVE_MANAGEMENT_CHANGE_TITLE": "Измените название",
     "folder": "кейс",
     "element-selection": "Выбор:",
-    "parent-id": "ParentId:",
+    "parent-id":  "ParentId:",
     "element-moving-in-progress": "Кликер в пункте назначения",
     "element-moving-in-progress-select": "Шаг",
     "element-moving-in-progress-cancel": "Отменить путешествие",
@@ -398,7 +401,7 @@
     "userConnexionMessageDefaultWithPseudo": "Здравствуйте, мой идентификатор Akarup [%replicats1%] и мой псевдоним rekempt2%. Надеюсь, вы примете в контакт со мной, и поэтому мы сможем обмениваться сообщениями, видеочатом и т. Д. Спасибо",
     "errorMessageBadUserID": "Идентификатор ошибки контакта. Это значение должно быть целым номером !!",
     "delete-contactGroup": "Удалить контакт группы",
-    "is_accepted_by_contact": "Принят контактом",
+    "is_accepted_by_contact": "Принято контактом",
     "waiting_for_accepted_by_contact": "В ожидании принятия",
     "messageDeleteAlert": "Удалить контакт в группе",
     "messageDeleteAlertSubtitle": "Удалить выбранный контакт?",
@@ -488,7 +491,7 @@
     "group-delete": "Группа только что была удалена его менеджером!"
     },
     "aka-local-message-detail-test": {
-    "title": "Тестовая страница для сообщений» сообщений "
+    "title": "Тестовая страница для сообщений сообщений "
     },
     "aka-local-account-request-id": {
     "title": "Восстановить мой личный удостоверение личности",
@@ -626,7 +629,7 @@
     "current-account-message": "Текущий аккаунт",
     "select_account_as_main": "Основная учетная запись",
     "deleting_in_progress": "Удалить в прогрессе",
-    "account_already_exist": "Счет %% id %% уже существует на этой машине!",
+    "account_already_exist": "Учетная запись %% ID уже существует на этой машине!",
     "Button_OK": "ХОРОШО",
     "message-synchronization-before-select-account": "Синхронизация перед выбором учетной записи"
     },
@@ -647,31 +650,31 @@
     "title": "СМИ"
     },
     "aka-local-desktop-file-manager": {
-    "titre-drive": "Папка (ы)",
+    "titre-drive":  "Папка (ы)",
     "titre-drive-is-empty": "Ваше место для хранения пустое",
-    "texte-drive-is-empty_1": "Вы можете добавить папки, фотографии, видео, звуковые заметки, элементы импорта, используя приведенные ниже кнопки",
+    "texte-drive-is-empty_1": "Вы можете добавить папки, фотографии, видео, шумовые заметки, импортные элементы, используя приведенные ниже кнопки",
     "texte-drive-is-empty_2": "Откройте для себя документацию каждой кнопки, нажав здесь",
-    "texte-drive-decrypt-and-loading": "ДеКРИЗАНИЕ И ЗАГРУЗКА ФАЙЛА",
-    "DRIVE_MANAGEMENT_FOLDER": "Папки",
+    "texte-drive-decrypt-and-loading":  "ДеКРИЗАНИЕ И ЗАГРУЗКА ФАЙЛА",
+    "DRIVE_MANAGEMENT_FOLDER": "Файлы",
     "DRIVE_MANAGEMENT_ELEMENT": "Элементы",
-    "DRIVE_MANAGEMENT_NEW_FOLDER": "Новая папка",
-    "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Отменить выбор папок",
+    "DRIVE_MANAGEMENT_NEW_FOLDER": "Новый файл",
+    "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Отменить выбор файла",
     "DRIVE_MANAGEMENT_DELETE_FOLDER": "Удалить выбранную папку",
-    "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Изменить информацию о папке",
-    "DRIVE_MANAGEMENT_CANCEL": "Отмена",
-    "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Введите имя папки",
-    "DRIVE_MANAGEMENT_ADD_PICTURE": "Добавить картинку",
+    "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Измените информационный файл",
+    "DRIVE_MANAGEMENT_CANCEL": "Отменить",
+    "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Введите имя файла",
+    "DRIVE_MANAGEMENT_ADD_PICTURE": "Добавить изображение",
     "DRIVE_MANAGEMENT_ADD_VIDEO": "Добавить видео",
     "DRIVE_MANAGEMENT_ADD_VOICE": "Добавить голосовое сообщение",
-    "DRIVE_MANAGEMENT_ADD_NOTE": "Добавить заметку",
-    "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Import Pictures из альбома",
+    "DRIVE_MANAGEMENT_ADD_NOTE": "Добавить примечание",
+    "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Импорт изображений с альбома",
     "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Импорт видео из альбома",
     "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Импортный документ",
-    "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Переместить элемент в другую папку",
-    "DRIVE_MANAGEMENT_CHANGE_TITLE": "Измените название",
+    "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Переместите элемент в другой файл",
+    "DRIVE_MANAGEMENT_CHANGE_TITLE":            "Измените название",
     "folder": "кейс",
     "element-selection": "Выбор:",
-    "parent-id": "ParentId:",
+    "parent-id":  "ParentId:",
     "element-moving-in-progress": "Кликер в пункте назначения",
     "element-moving-in-progress-select": "Шаг",
     "element-moving-in-progress-cancel": "Отменить путешествие",
@@ -682,7 +685,16 @@
     "deleteFolderSelection": "Удалить выбор и связанные с ними элементы?",
     "delete": "Удаление",
     "folderTitleChange": "Измените заголовок файла",
-    "folderNewTitle": "Новое название"
+    "folderNewTitle": "Новое название",
+    "hover-cancelSelection": "Отменить выбор",
+    "presentAlertCreateNoteImpossible_ok": "ХОРОШО",
+    "presentAlertCreateNoteImpossible_header": "Примечание проблемы создания!",
+    "presentAlertCreateNoteImpossible_subHeader": "Невозможное создание ноты",
+    "presentAlertCreateNoteImpossible_message": "Чтобы иметь возможность создать заметку, вы должны дать ей заголовок!",
+    "presentAlertCreateFolderImpossible_ok": "ХОРОШО",
+    "presentAlertCreateFolderImpossible_header": "Проблема создания файлов!",
+    "presentAlertCreateFolderImpossible_subHeader": "Невозможное создание файлов",
+    "presentAlertCreateFolderImpossible_message": "Чтобы иметь возможность создать файл, вы должны дать ему имя!"
     },
     "aka-local-desktop-file-manager-word": {
     "titre-rtf": "Текстовый редактор",
@@ -694,6 +706,31 @@
     "leaveSaveDataTitle": "Сохранить изменения",
     "leaveSaveDataMessage": "Сохранить изменения ?",
     "leaveSaveDateTextNo": "Не сохраняй",
-    "leaveSaveDateTextYes": "Зарегистрироваться"
+    "leaveSaveDateTextYes": "Зарегистрироваться",
+    "titleCreate": "Новый",
+    "titleSave": "Зарегистрироваться",
+    "titleDuplicate": "Дублировать",
+    "btnCancel": "Отменить",
+    "btnDoCreation": "Создать документ",
+    "btnDoOpen": "Откройте документ",
+    "btnDoCopy": "Дублировать документ",
+    "searchPlaceHolder": "Введите здесь свой поиск",
+    "popUpTitre": "Сохранить / создать документ",
+    "enterFileNamePlaceholder": "Имя файла",
+    "titleOpen": "Откройте документ",
+    "btnDoSave": "Зарегистрироваться",
+    "btnDoLoad": "Откройте документ",
+    "newFolderMsg": "Новый файл",
+    "btnNewFolderCance": "Отменить",
+    "btnNewFolderDoIt": "Создать файл",
+    "msgPleaseWait": "Спасибо за ожидание ..."
+    },
+    "aka-local-desktop-file-manager-video-image": {
+    "titre-rtf": "Видео редактор / изображение",
+    "prompt": "Измените имя файла",
+    "placeholder": "Новое имя",
+    "btnAnnuler": "Отменить",
+    "btnOK": "Измените имя!",
+    "clic2playVideo": "Кликер, чтобы посмотреть видео или прослушать звук"
     }
-}
+    }
