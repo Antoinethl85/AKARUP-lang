@@ -1,5 +1,5 @@
 {
-"aka-local-account-init": {
+  "aka-local-account-init": {
   "mot-de-passe": "Senha",
   "creation": "Criação",
   "compte-local": "Conta local",
@@ -18,7 +18,7 @@
   "use-login-by-password": "Use a senha"
   },
   "aka-local-debug-db": {
-  "titre-menu-debug-db": "Debug DB",
+  "titre-menu-debug-db":   "Debug DB",
   "home": "Bem-vindo",
   "liste-db": "Lista de dB",
   "info-db": "Em formação",
@@ -59,13 +59,13 @@
   },
   "aka-locak-desktop": {
   "desktop": "Mesa",
-  "menuTitre": "Cardápio",
-  "sujet1": "Alterar o idioma",
-  "sujet2": "Parâmetros de aplicação",
-  "sujet3": "Minha informação - meus dados",
-  "sujet4": "Ativar acesso ao código do pino",
-  "sujet5": "Sob Menu 5",
-  "sujet6": "Sob Menu 6",
+  "menuTitre":  "Cardápio",
+  "sujet1":   "Alterar o idioma",
+  "sujet2":   "Parâmetros de aplicação",
+  "sujet3":   "Minha informação - meus dados",
+  "sujet4":   "Ativar acesso ao código do pino",
+  "sujet5":   "Sob Menu 5",
+  "sujet6":   "Sob Menu 6",
   "identifiant": "EU IRIA:",
   "pseudo": "Pseudo"
   },
@@ -85,7 +85,8 @@
   "contact": "Contatos",
   "videoconf": "conferência",
   "multi_account": "Mudar de conta",
-  "picture-video": "Imagens e vídeos"
+  "picture-video": "Imagens e vídeos",
+  "wordprocessing": "Processador de palavras"
   },
   "aka-app-translate-appname-toast-head": {
   "folder": "Lançamento do aplicativo da pasta",
@@ -101,7 +102,8 @@
   "setting": "Lançamento do aplicativo de configurações",
   "database": "Lançamento do aplicativo de banco de dados",
   "debug": "Lançamento do aplicativo Debug",
-  "multi_account": "Lançamento do aplicativo multi -conta"
+  "multi_account": "Lançamento do aplicativo multi -conta",
+  "wordprocessing": "Profeitor de texto esgotando"
   },
   "aka-app-translate-appname-toast-msg": {
   "folder": "Por favor, espere durante o lançamento",
@@ -116,10 +118,11 @@
   "setting": "Por favor, espere durante o lançamento",
   "database": "Por favor, espere durante o lançamento",
   "debug": "Por favor, espere durante o lançamento",
-  "multi_account": "Em breve..."
+  "multi_account": "Em breve...",
+  "wordprocessing": "Por favor, espere durante o lançamento do processamento de texto"
   },
   "aka-local-desktop-debug": {
-  "titre-debug": "Debugger",
+  "titre-debug":  "Debugger",
   "parametres-title": "Principais parâmetros",
   "parametres-subtitle": "Detalhes da variável",
   "version": "Versão",
@@ -146,7 +149,7 @@
   "urlSocketIO": "Servidor soket.io",
   "socketio_uuid": "Socket.io ID",
   "socketio_subtitle": "Parâmetros do módulo",
-  "socketio_title": "Socket io",
+  "socketio_title": "Socket Io",
   "socketio_connect": "Número de conexões",
   "socketio_disconnect": "Número de desconexões",
   "device_uuid": "Dispositivo uuid",
@@ -155,11 +158,11 @@
   "pushNotification-tokenstring": "Conteúdo do token"
   },
   "aka-local-desktop-drive": {
-  "titre-drive": "Arquivos)",
-  "titre-drive-is-empty": "O armazenamento está vazio",
+  "titre-drive":                      "Arquivos)",
+  "titre-drive-is-empty":             "O armazenamento está vazio",
   "texte-drive-is-empty_1": "Você pode adicionar pastas, fotos, vídeos, notas de ruído, itens de importação usando os botões abaixo",
   "texte-drive-is-empty_2": "Descubra a documentação de cada botão clicando aqui",
-  "texte-drive-decrypt-and-loading": "Decifrando e carregando arquivos",
+  "texte-drive-decrypt-and-loading":  "Decifrando e carregando arquivos",
   "DRIVE_MANAGEMENT_FOLDER": "Arquivos",
   "DRIVE_MANAGEMENT_ELEMENT": "Elementos",
   "DRIVE_MANAGEMENT_NEW_FOLDER": "Novo arquivo",
@@ -198,31 +201,31 @@
   "title": "Farga a pasta e o arquivo"
   },
   "aka-local-desktop-new-drive": {
-  "titre-drive": "Pasta (s)",
+  "titre-drive":  "Caso",
   "titre-drive-is-empty": "Seu espaço de armazenamento está vazio",
-  "texte-drive-is-empty_1": "Você pode adicionar pastas, fotos, vídeos, notas de som, elementos de importação usando os botões abaixo",
+  "texte-drive-is-empty_1": "Você pode adicionar pastas, fotos, vídeos, notas de ruído, itens de importação usando os botões abaixo",
   "texte-drive-is-empty_2": "Descubra a documentação de cada botão clicando aqui",
-  "texte-drive-decrypt-and-loading": "Decifrando e carregando arquivos",
-  "DRIVE_MANAGEMENT_FOLDER": "Pastas",
+  "texte-drive-decrypt-and-loading":  "Decifrando e carregando arquivos",
+  "DRIVE_MANAGEMENT_FOLDER": "Arquivos",
   "DRIVE_MANAGEMENT_ELEMENT": "Elementos",
-  "DRIVE_MANAGEMENT_NEW_FOLDER": "Nova pasta",
-  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Cancelar seleção de pastas",
-  "DRIVE_MANAGEMENT_DELETE_FOLDER": "Excluir pasta selecionada",
-  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Alterar pasta de informações",
+  "DRIVE_MANAGEMENT_NEW_FOLDER": "Novo arquivo",
+  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Delegado o arquivo atual",
+  "DRIVE_MANAGEMENT_DELETE_FOLDER": "Exclua a pasta selecionada",
+  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Alterar informações do arquivo",
   "DRIVE_MANAGEMENT_CANCEL": "Cancelar",
-  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Digite o nome da pasta",
-  "DRIVE_MANAGEMENT_ADD_PICTURE": "Adicionar imagem",
-  "DRIVE_MANAGEMENT_ADD_VIDEO": "Adicionar vídeo",
-  "DRIVE_MANAGEMENT_ADD_VOICE": "Adicionar mensagem de voz",
-  "DRIVE_MANAGEMENT_ADD_NOTE": "Adicionar nota",
-  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Importar fotos do álbum",
-  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Importar vídeo do álbum",
-  "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Documento de importação",
+  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Digite o nome do arquivo",
+  "DRIVE_MANAGEMENT_ADD_PICTURE": "Tirar uma foto",
+  "DRIVE_MANAGEMENT_ADD_VIDEO": "Turn a Video",
+  "DRIVE_MANAGEMENT_ADD_VOICE": "Adicionar uma mensagem de voz",
+  "DRIVE_MANAGEMENT_ADD_NOTE": "Adicione uma anotação",
+  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Importar uma imagem do álbum",
+  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Importar um vídeo desde o álbum",
+  "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Importar um documento",
   "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Mover elemento para outra pasta",
   "DRIVE_MANAGEMENT_CHANGE_TITLE": "Alterar o título",
   "folder": "caso",
   "element-selection": "Seleção:",
-  "parent-id": "Parentid:",
+  "parent-id":  "Parentid:",
   "element-moving-in-progress": "Clicker no destino",
   "element-moving-in-progress-select": "Jogada",
   "element-moving-in-progress-cancel": "Cancelar viagens",
@@ -488,7 +491,7 @@
   "group-delete": "O grupo acabou de ser excluído por seu gerente!"
   },
   "aka-local-message-detail-test": {
-  "title": "Página de teste para mensagens, Mensagens "
+  "title": "Página de teste para mensagens Mensagens "
   },
   "aka-local-account-request-id": {
   "title": "Recupere minha identificação pessoal",
@@ -626,7 +629,7 @@
   "current-account-message": "Conta corrente",
   "select_account_as_main": "Conta principal",
   "deleting_in_progress": "Excluir em andamento",
-  "account_already_exist": "A conta %% id %% já existe nesta máquina!",
+  "account_already_exist": "A conta de % id já existe nesta máquina!",
   "Button_OK": "OK",
   "message-synchronization-before-select-account": "Sincronização antes da seleção da conta"
   },
@@ -647,31 +650,31 @@
   "title": "Meios de comunicação"
   },
   "aka-local-desktop-file-manager": {
-  "titre-drive": "Pasta (s)",
+  "titre-drive":  "Pasta (s)",
   "titre-drive-is-empty": "Seu espaço de armazenamento está vazio",
-  "texte-drive-is-empty_1": "Você pode adicionar pastas, fotos, vídeos, notas de som, elementos de importação usando os botões abaixo",
+  "texte-drive-is-empty_1": "Você pode adicionar pastas, fotos, vídeos, notas de ruído, itens de importação usando os botões abaixo",
   "texte-drive-is-empty_2": "Descubra a documentação de cada botão clicando aqui",
-  "texte-drive-decrypt-and-loading": "Decifrando e carregando arquivos",
-  "DRIVE_MANAGEMENT_FOLDER": "Pastas",
+  "texte-drive-decrypt-and-loading":  "Decifrando e carregando arquivos",
+  "DRIVE_MANAGEMENT_FOLDER": "Arquivos",
   "DRIVE_MANAGEMENT_ELEMENT": "Elementos",
-  "DRIVE_MANAGEMENT_NEW_FOLDER": "Nova pasta",
-  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Cancelar seleção de pastas",
-  "DRIVE_MANAGEMENT_DELETE_FOLDER": "Excluir pasta selecionada",
-  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Alterar pasta de informações",
+  "DRIVE_MANAGEMENT_NEW_FOLDER": "Novo arquivo",
+  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Cancelar a seleção de arquivos",
+  "DRIVE_MANAGEMENT_DELETE_FOLDER": "Exclua a pasta selecionada",
+  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Modifique o arquivo de informações",
   "DRIVE_MANAGEMENT_CANCEL": "Cancelar",
-  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Digite o nome da pasta",
-  "DRIVE_MANAGEMENT_ADD_PICTURE": "Adicionar imagem",
-  "DRIVE_MANAGEMENT_ADD_VIDEO": "Adicionar vídeo",
-  "DRIVE_MANAGEMENT_ADD_VOICE": "Adicionar mensagem de voz",
-  "DRIVE_MANAGEMENT_ADD_NOTE": "Adicionar nota",
-  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Importar fotos do álbum",
-  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Importar vídeo do álbum",
+  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Digite o nome do arquivo",
+  "DRIVE_MANAGEMENT_ADD_PICTURE": "Adicionar uma imagem",
+  "DRIVE_MANAGEMENT_ADD_VIDEO": "Adicionar um vídeo",
+  "DRIVE_MANAGEMENT_ADD_VOICE": "Adicionar uma mensagem de voz",
+  "DRIVE_MANAGEMENT_ADD_NOTE": "Adicione uma anotação",
+  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Importar imagens do álbum",
+  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Importar vídeos do álbum",
   "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Documento de importação",
-  "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Mover elemento para outra pasta",
-  "DRIVE_MANAGEMENT_CHANGE_TITLE": "Alterar o título",
+  "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Mova o elemento para outro arquivo",
+  "DRIVE_MANAGEMENT_CHANGE_TITLE":            "Alterar o título",
   "folder": "caso",
   "element-selection": "Seleção:",
-  "parent-id": "Parentid:",
+  "parent-id":  "Parentid:",
   "element-moving-in-progress": "Clicker no destino",
   "element-moving-in-progress-select": "Jogada",
   "element-moving-in-progress-cancel": "Cancelar viagens",
@@ -682,7 +685,16 @@
   "deleteFolderSelection": "Excluir seleção e elementos associados?",
   "delete": "Eliminação",
   "folderTitleChange": "Altere o título do arquivo",
-  "folderNewTitle": "Novo título"
+  "folderNewTitle": "Novo título",
+  "hover-cancelSelection": "Cancelar a seleção",
+  "presentAlertCreateNoteImpossible_ok": "OK",
+  "presentAlertCreateNoteImpossible_header": "Problema de criação de nota!",
+  "presentAlertCreateNoteImpossible_subHeader": "Criação de nota impossível",
+  "presentAlertCreateNoteImpossible_message": "Para poder criar uma nota, você deve dar um título!",
+  "presentAlertCreateFolderImpossible_ok": "OK",
+  "presentAlertCreateFolderImpossible_header": "Problema de criação de arquivos!",
+  "presentAlertCreateFolderImpossible_subHeader": "Criação de arquivo impossível",
+  "presentAlertCreateFolderImpossible_message": "Para poder criar um arquivo, você deve dar um nome!"
   },
   "aka-local-desktop-file-manager-word": {
   "titre-rtf": "Editor de texto",
@@ -694,6 +706,31 @@
   "leaveSaveDataTitle": "Salvar mudanças",
   "leaveSaveDataMessage": "Salvar mudanças?",
   "leaveSaveDateTextNo": "Não salve",
-  "leaveSaveDateTextYes": "Registrar"
+  "leaveSaveDateTextYes": "Registrar",
+  "titleCreate": "Novo",
+  "titleSave": "Registrar",
+  "titleDuplicate": "Duplicado",
+  "btnCancel": "Cancelar",
+  "btnDoCreation": "Crie o documento",
+  "btnDoOpen": "Abra um documento",
+  "btnDoCopy": "Duplique o documento",
+  "searchPlaceHolder": "Digite sua pesquisa aqui",
+  "popUpTitre": "Salvar / criar o documento",
+  "enterFileNamePlaceholder": "Nome do arquivo",
+  "titleOpen": "Abra um documento",
+  "btnDoSave": "Registrar",
+  "btnDoLoad": "Abra o documento",
+  "newFolderMsg": "Novo arquivo",
+  "btnNewFolderCance": "Cancelar",
+  "btnNewFolderDoIt": "Crie o arquivo",
+  "msgPleaseWait": "Obrigado por esperar ..."
+  },
+  "aka-local-desktop-file-manager-video-image": {
+  "titre-rtf": "Editor de vídeo / imagem",
+  "prompt": "Altere o nome do arquivo",
+  "placeholder": "Novo nome",
+  "btnAnnuler": "Cancelar",
+  "btnOK": "Mude o nome!",
+  "clic2playVideo": "Clicker para ver o vídeo ou ouvir o som"
   }
-}
+  }
