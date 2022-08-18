@@ -1,5 +1,5 @@
 {
-"aka-local-account-init": {
+  "aka-local-account-init": {
   "mot-de-passe": "Parola",
   "creation": "Creare",
   "compte-local": "Cont local",
@@ -18,7 +18,7 @@
   "use-login-by-password": "Utilizați parola"
   },
   "aka-local-debug-db": {
-  "titre-menu-debug-db": "Debug DB",
+  "titre-menu-debug-db":   "Debug DB",
   "home": "Bine ati venit",
   "liste-db": "Lista DB",
   "info-db": "Informație",
@@ -59,13 +59,13 @@
   },
   "aka-locak-desktop": {
   "desktop": "Birou",
-  "menuTitre": "Meniul",
-  "sujet1": "Schimbați limba",
-  "sujet2": "Parametri ai aplicației",
-  "sujet3": "Informațiile mele - datele mele",
-  "sujet4": "Activați accesul codului PIN",
-  "sujet5": "În meniul 5",
-  "sujet6": "În meniul 6",
+  "menuTitre":  "Meniul",
+  "sujet1":   "Schimbați limba",
+  "sujet2":   "Parametri ai aplicației",
+  "sujet3":   "Informațiile mele - datele mele",
+  "sujet4":   "Activați accesul codului PIN",
+  "sujet5":   "În meniul 5",
+  "sujet6":   "În meniul 6",
   "identifiant": "ID:",
   "pseudo": "Pseudo"
   },
@@ -85,7 +85,8 @@
   "contact": "Contacte",
   "videoconf": "conferinţă",
   "multi_account": "Schimba contul",
-  "picture-video": "Imagini și videoclipuri"
+  "picture-video": "Imagini și videoclipuri",
+  "wordprocessing": "Procesor de cuvinte"
   },
   "aka-app-translate-appname-toast-head": {
   "folder": "Lansarea aplicației folderului",
@@ -101,7 +102,8 @@
   "setting": "Lansarea aplicației Setări",
   "database": "Lansarea aplicației bazei de date",
   "debug": "Lansarea aplicației de depanare",
-  "multi_account": "Lansarea aplicației multi -cont"
+  "multi_account": "Lansarea aplicației multi -cont",
+  "wordprocessing": "LAUcing Processor de texte"
   },
   "aka-app-translate-appname-toast-msg": {
   "folder": "Vă rugăm să așteptați în timpul lansării",
@@ -116,10 +118,11 @@
   "setting": "Vă rugăm să așteptați în timpul lansării",
   "database": "Vă rugăm să așteptați în timpul lansării",
   "debug": "Vă rugăm să așteptați în timpul lansării",
-  "multi_account": "In curand..."
+  "multi_account": "In curand...",
+  "wordprocessing": "Vă rugăm să așteptați în timpul lansării procesării textului"
   },
   "aka-local-desktop-debug": {
-  "titre-debug": "Debugger",
+  "titre-debug":  "Debugger",
   "parametres-title": "Parametrii principali",
   "parametres-subtitle": "Detalii variabile",
   "version": "Versiune",
@@ -155,11 +158,11 @@
   "pushNotification-tokenstring": "Conținut token"
   },
   "aka-local-desktop-drive": {
-  "titre-drive": "Fișier (e)",
-  "titre-drive-is-empty": "Depozitarea este goală",
+  "titre-drive":                      "Fișier (e)",
+  "titre-drive-is-empty":             "Depozitarea este goală",
   "texte-drive-is-empty_1": "Puteți adăuga foldere, fotografii, videoclipuri, note de zgomot, import articole folosind butoanele de mai jos",
   "texte-drive-is-empty_2": "Descoperiți documentația fiecărui buton făcând clic aici",
-  "texte-drive-decrypt-and-loading": "Descifrarea și încărcarea fișierelor",
+  "texte-drive-decrypt-and-loading":  "Descifrarea și încărcarea fișierelor",
   "DRIVE_MANAGEMENT_FOLDER": "Fișiere",
   "DRIVE_MANAGEMENT_ELEMENT": "Elemente",
   "DRIVE_MANAGEMENT_NEW_FOLDER": "Fișier nou",
@@ -198,31 +201,31 @@
   "title": "Folder și fișiere încărcături"
   },
   "aka-local-desktop-new-drive": {
-  "titre-drive": "Folder (e)",
+  "titre-drive":  "Caz",
   "titre-drive-is-empty": "Spațiul dvs. de depozitare este gol",
-  "texte-drive-is-empty_1": "Puteți adăuga foldere, fotografii, videoclipuri, note de sunet, elemente de import folosind butoanele de mai jos",
+  "texte-drive-is-empty_1": "Puteți adăuga foldere, fotografii, videoclipuri, note de zgomot, import articole folosind butoanele de mai jos",
   "texte-drive-is-empty_2": "Descoperiți documentația fiecărui buton făcând clic aici",
-  "texte-drive-decrypt-and-loading": "Descifrarea și încărcarea fișierelor",
-  "DRIVE_MANAGEMENT_FOLDER": "Foldere",
+  "texte-drive-decrypt-and-loading":  "Descifrarea și încărcarea fișierelor",
+  "DRIVE_MANAGEMENT_FOLDER": "Fișiere",
   "DRIVE_MANAGEMENT_ELEMENT": "Elemente",
-  "DRIVE_MANAGEMENT_NEW_FOLDER": "Dosar nou",
-  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Anulați selecția folderului",
+  "DRIVE_MANAGEMENT_NEW_FOLDER": "Fișier nou",
+  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "A delectat fișierul curent",
   "DRIVE_MANAGEMENT_DELETE_FOLDER": "Ștergeți folderul selectat",
-  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Schimbați folderul informațional",
-  "DRIVE_MANAGEMENT_CANCEL": "Anulare",
-  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Introduceți numele folderului",
-  "DRIVE_MANAGEMENT_ADD_PICTURE": "Adăugați poza",
-  "DRIVE_MANAGEMENT_ADD_VIDEO": "Adăugați video",
-  "DRIVE_MANAGEMENT_ADD_VOICE": "Adăugați mesaj vocal",
-  "DRIVE_MANAGEMENT_ADD_NOTE": "Adauga notita",
-  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Import poze din album",
-  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Import video din album",
-  "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Import document",
+  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Schimbați informațiile din fișier",
+  "DRIVE_MANAGEMENT_CANCEL": "A anula",
+  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Introduceți numele fișierului",
+  "DRIVE_MANAGEMENT_ADD_PICTURE": "A face o poză",
+  "DRIVE_MANAGEMENT_ADD_VIDEO": "Întoarceți un videoclip",
+  "DRIVE_MANAGEMENT_ADD_VOICE": "Adăugați un mesaj vocal",
+  "DRIVE_MANAGEMENT_ADD_NOTE": "Adaugă o notiță",
+  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Importați o imagine din album",
+  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Importați un videoclip de la album",
+  "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Importați un document",
   "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Mutați elementul în alt folder",
   "DRIVE_MANAGEMENT_CHANGE_TITLE": "Schimbați titlul",
   "folder": "caz",
   "element-selection": "Selecţie:",
-  "parent-id": "ParentID:",
+  "parent-id":  "ParentID:",
   "element-moving-in-progress": "Faceți clic pe destinație",
   "element-moving-in-progress-select": "Mutare",
   "element-moving-in-progress-cancel": "Anulați călătoria",
@@ -488,7 +491,7 @@
   "group-delete": "Grupul tocmai a fost șters de managerul său!"
   },
   "aka-local-message-detail-test": {
-  "title": "Pagina de testare pentru mesaje, mesaje "
+  "title": "Pagina de testare pentru mesaje mesaje "
   },
   "aka-local-account-request-id": {
   "title": "Recuperează -mi ID -ul personal",
@@ -626,7 +629,7 @@
   "current-account-message": "Contul curent",
   "select_account_as_main": "Contul principal",
   "deleting_in_progress": "Ștergeți în curs",
-  "account_already_exist": "Contul %% id %% există deja pe această mașină!",
+  "account_already_exist": "Contul %% ID există deja pe această mașină!",
   "Button_OK": "O.K",
   "message-synchronization-before-select-account": "Sincronizare înainte de selectarea contului"
   },
@@ -647,31 +650,31 @@
   "title": "Mass-media"
   },
   "aka-local-desktop-file-manager": {
-  "titre-drive": "Folder (e)",
+  "titre-drive":  "Folder (e)",
   "titre-drive-is-empty": "Spațiul dvs. de depozitare este gol",
-  "texte-drive-is-empty_1": "Puteți adăuga foldere, fotografii, videoclipuri, note de sunet, elemente de import folosind butoanele de mai jos",
+  "texte-drive-is-empty_1": "Puteți adăuga foldere, fotografii, videoclipuri, note de zgomot, import articole folosind butoanele de mai jos",
   "texte-drive-is-empty_2": "Descoperiți documentația fiecărui buton făcând clic aici",
-  "texte-drive-decrypt-and-loading": "Descifrarea și încărcarea fișierelor",
-  "DRIVE_MANAGEMENT_FOLDER": "Foldere",
+  "texte-drive-decrypt-and-loading":  "Descifrarea și încărcarea fișierelor",
+  "DRIVE_MANAGEMENT_FOLDER": "Fișiere",
   "DRIVE_MANAGEMENT_ELEMENT": "Elemente",
-  "DRIVE_MANAGEMENT_NEW_FOLDER": "Dosar nou",
-  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Anulați selecția folderului",
+  "DRIVE_MANAGEMENT_NEW_FOLDER": "Fișier nou",
+  "DRIVE_MANAGEMENT_DESELECT_FOLDER": "Anulați selecția fișierului",
   "DRIVE_MANAGEMENT_DELETE_FOLDER": "Ștergeți folderul selectat",
-  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Schimbați folderul informațional",
-  "DRIVE_MANAGEMENT_CANCEL": "Anulare",
-  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Introduceți numele folderului",
-  "DRIVE_MANAGEMENT_ADD_PICTURE": "Adăugați poza",
-  "DRIVE_MANAGEMENT_ADD_VIDEO": "Adăugați video",
-  "DRIVE_MANAGEMENT_ADD_VOICE": "Adăugați mesaj vocal",
-  "DRIVE_MANAGEMENT_ADD_NOTE": "Adauga notita",
-  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Import poze din album",
-  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Import video din album",
+  "DRIVE_MANAGEMENT_CHANGE_FOLDER": "Modificați fișierul informațional",
+  "DRIVE_MANAGEMENT_CANCEL": "A anula",
+  "DRIVE_MANAGEMENT_PLEASE_ENTER_TITLE_FOLDER": "Introduceți numele fișierului",
+  "DRIVE_MANAGEMENT_ADD_PICTURE": "Adăugați o imagine",
+  "DRIVE_MANAGEMENT_ADD_VIDEO": "Adăugați un videoclip",
+  "DRIVE_MANAGEMENT_ADD_VOICE": "Adăugați un mesaj vocal",
+  "DRIVE_MANAGEMENT_ADD_NOTE": "Adaugă o notiță",
+  "DRIVE_MANAGEMENT_IMPORT_PICTURE_FROM_ALBUM": "Importați imagini din album",
+  "DRIVE_MANAGEMENT_IMPORT_VIDEO_FROM_ALBUM": "Import videoclipuri din album",
   "DRIVE_MANAGEMENT_IMPORT_DOCUMENT": "Import document",
-  "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Mutați elementul în alt folder",
-  "DRIVE_MANAGEMENT_CHANGE_TITLE": "Schimbați titlul",
+  "DRIVE_MOVE_ELEMENT_TO_OTHER_FOLDER": "Mutați elementul într -un alt fișier",
+  "DRIVE_MANAGEMENT_CHANGE_TITLE":            "Schimbați titlul",
   "folder": "caz",
   "element-selection": "Selecţie:",
-  "parent-id": "ParentID:",
+  "parent-id":  "ParentID:",
   "element-moving-in-progress": "Faceți clic pe destinație",
   "element-moving-in-progress-select": "Mutare",
   "element-moving-in-progress-cancel": "Anulați călătoria",
@@ -682,7 +685,16 @@
   "deleteFolderSelection": "Ștergeți selecția și elementele asociate?",
   "delete": "Ștergerea",
   "folderTitleChange": "Schimbați titlul fișierului",
-  "folderNewTitle": "Nou titlu"
+  "folderNewTitle": "Nou titlu",
+  "hover-cancelSelection": "Anulați selecția",
+  "presentAlertCreateNoteImpossible_ok": "O.K",
+  "presentAlertCreateNoteImpossible_header": "Problema creării notelor!",
+  "presentAlertCreateNoteImpossible_subHeader": "Crearea de note imposibile",
+  "presentAlertCreateNoteImpossible_message": "Pentru a putea crea o notă, trebuie să -i dai un titlu!",
+  "presentAlertCreateFolderImpossible_ok": "O.K",
+  "presentAlertCreateFolderImpossible_header": "Problema creării fișierelor!",
+  "presentAlertCreateFolderImpossible_subHeader": "Crearea imposibilă a fișierelor",
+  "presentAlertCreateFolderImpossible_message": "Pentru a putea crea un fișier, trebuie să -i dai un nume!"
   },
   "aka-local-desktop-file-manager-word": {
   "titre-rtf": "Editor de text",
@@ -694,6 +706,31 @@
   "leaveSaveDataTitle": "Salvează modificările",
   "leaveSaveDataMessage": "Salvează modificările ?",
   "leaveSaveDateTextNo": "Nu salva",
-  "leaveSaveDateTextYes": "A înregistra"
+  "leaveSaveDateTextYes": "A înregistra",
+  "titleCreate": "Nou",
+  "titleSave": "A înregistra",
+  "titleDuplicate": "Duplicat",
+  "btnCancel": "A anula",
+  "btnDoCreation": "Creați documentul",
+  "btnDoOpen": "Deschide un document",
+  "btnDoCopy": "Duplicați documentul",
+  "searchPlaceHolder": "Tastați căutarea dvs. aici",
+  "popUpTitre": "Salvați / creați documentul",
+  "enterFileNamePlaceholder": "Nume de fișier",
+  "titleOpen": "Deschide un document",
+  "btnDoSave": "A înregistra",
+  "btnDoLoad": "Deschideți documentul",
+  "newFolderMsg": "Fișier nou",
+  "btnNewFolderCance": "A anula",
+  "btnNewFolderDoIt": "Creați fișierul",
+  "msgPleaseWait": "Multumesc pentru asteptare ..."
+  },
+  "aka-local-desktop-file-manager-video-image": {
+  "titre-rtf": "Editor video / imagine",
+  "prompt": "Schimbați numele fișierului",
+  "placeholder": "Nume nou",
+  "btnAnnuler": "A anula",
+  "btnOK": "Schimbați numele!",
+  "clic2playVideo": "Clicker pentru a vedea videoclipul sau a asculta sunetul"
   }
-}
+  }
